@@ -25,6 +25,10 @@ We signed NDA's and the institution acquiring us made us sign NDA's as well, so 
 
 A Fortune 500 company. Can't say more.
 
+### Aren't you guys still technically in negotiations?
+
+We are getting acquired "phase-by-phase", and there are still discussions until the final phase. But, at this point, we've technically been acquired.
+
 ### Was the old website closed when the third agreement was signed?
 
 Yes, unfortunately.
