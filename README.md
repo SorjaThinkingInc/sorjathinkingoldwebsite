@@ -4,7 +4,7 @@ We had to close our previous website when we were getting acquired. It's okay, t
 
 ### So, who are you guys and what lead to making this start up?
 
-We are five practically brothers who've known each other since birth, and we were wild in all aspects: especially fanatics in solving a problem more efficiently. During out internship in the summer of 2019 at a place in the Big Apple, we realized that we could make risk projections more accurate with some "machinery." With the money we had, we then decided to focus on this making this a reality to help people with their investments. Each of us pooled in capital, and in August, we launched Sorja Thinking. 
+We are five practically brothers who've known each other since birth, and we are wild in all aspects: especially fanatics in solving a problem more efficiently. During out internship in the summer of 2019 at a place in the Big Apple, we realized that we could make risk projections more accurate with some "machinery." With the money we had, we then decided to focus on this making this a reality to help people with their investments. Each of us pooled in capital, and in August, we launched Sorja Thinking. 
 
 ### Why is this website here?
 
@@ -37,13 +37,19 @@ We didn't want much attention or info leaking out. Or else, our value could have
 
 We hired people, obviously, for our respective "office" locations. A few are now at other large corporations, and a few are being assimilated by the company that acquired us. 
 
+### Why did you guys add "oldwebsite" to the repository?
+
+Clickbait. 
+
+In all seriousness, we were originally thinking about putting up the very first and very last versions of our old website, or at least content wise, but after talking with our lawyers, we weren't allowed to but the repository was already made. Sorry!
+
 ### What about the newsletter? Can people still sign up?
 
 For those currently subscribed (it should be just family, former clients, and certain investors), you'll still get it once every month or so. But, it'll be more of a personal update of the five of us. As there is a shift of focus, we are not going to accept any new "subscribers."
 
 ### What's next?
 
-It was our last commercial venture as the five of us. Four of us might start a small investment firm. Our little one wants to pursue physics, sadly. But, we'll try to wheel him back to get the gang of five again.
+It was our last commercial venture as the five of us. Four of us might start an incubator. Our little one wants to pursue physics, sadly. But, we'll try to wheel him back to get the gang of five on another adventure.
 
 
 
